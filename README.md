@@ -3,7 +3,7 @@
 - Name : YoungHak Kim
 - Email : novice1993@naver.com
 - Velog : https://velog.io/@novice93
-- 논리적이고 깔끔한 걸 좋아하는 웹 개발자 입니다. 
+- Introduce : 논리적이고 깔끔한 걸 좋아하는 웹 개발자 입니다. 
 <br/>
 
 📚 Tech Stacks
