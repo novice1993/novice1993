@@ -3,7 +3,6 @@
 - Name : YoungHak Kim
 - Email : novice1993@naver.com
 - Velog : https://velog.io/@novice93
-- Introduce : 논리적이고 깔끔한 걸 좋아하는 웹 개발자 입니다. 
 <br/>
 
 📚 Tech Stacks
@@ -16,7 +15,11 @@
 <img src ="https://img.shields.io/badge/Redux-purple.svg?&style=for-the-badge&logo=redux&logoColor=#764ABC"/>
 <img src ="https://img.shields.io/badge/React Query-orange.svg?&style=for-the-badge&logo=reactQuery&logoColor=#FF4154"/><br/>
 <img src ="https://img.shields.io/badge/styled components-darkgray.svg?&style=for-the-badge&logo=styledcomponents&logoColor=#DB7093"/>
+<br/><br/>
 
+🏃‍♂️ GitHub Stats
+<br/><br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=novice1993&show_icons=true&bg_color=00000000)
 <!--
 **novice1993/novice1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
