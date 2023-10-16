@@ -1,4 +1,8 @@
-### Hi there 👋
+🌱 Web Frontend Engineer 
+
+- Name : YoungHak Kim
+- Email : novice1993@naver.com
+- Velog : https://velog.io/@novice93
 
 <!--
 **novice1993/novice1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
