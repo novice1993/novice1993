@@ -16,6 +16,7 @@
 <img src ="https://img.shields.io/badge/Redux-purple.svg?&style=for-the-badge&logo=redux&logoColor=#764ABC"/>
 <img src ="https://img.shields.io/badge/React Query-orange.svg?&style=for-the-badge&logo=reactQuery&logoColor=#FF4154"/><br/>
 <img src ="https://img.shields.io/badge/styled components-darkgray.svg?&style=for-the-badge&logo=styledcomponents&logoColor=#DB7093"/>
+<img src ="https://img.shields.io/badge/tailwindcss-indigo.svg?&style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4"/>
 <br/><br/>
 
 🏃‍♂️ GitHub Stats
