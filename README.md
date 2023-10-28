@@ -12,6 +12,7 @@
 <img src ="https://img.shields.io/badge/JavaScript-blue.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
 <img src ="https://img.shields.io/badge/TypeScript-yellow.svg?&style=for-the-badge&logo=typescript&logoColor=#3178C6"/><br/>
 <img src ="https://img.shields.io/badge/React-darkgreen.svg?&style=for-the-badge&logo=react&logoColor=#61DAFB"/>
+<img src ="https://img.shields.io/badge/Next-skyblue.svg?&style=for-the-badge&logo=nextdotjs&logoColor=#000000"/>
 <img src ="https://img.shields.io/badge/Redux-purple.svg?&style=for-the-badge&logo=redux&logoColor=#764ABC"/>
 <img src ="https://img.shields.io/badge/React Query-orange.svg?&style=for-the-badge&logo=reactQuery&logoColor=#FF4154"/><br/>
 <img src ="https://img.shields.io/badge/styled components-darkgray.svg?&style=for-the-badge&logo=styledcomponents&logoColor=#DB7093"/>
